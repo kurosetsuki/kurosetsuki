@@ -13,12 +13,9 @@
 img{
     object-fit: contain;
     opacity: 100%;
+    margin: auto;
 }
-
 
 img:hover{
 opacity: 80%;
 }
-
-
-
