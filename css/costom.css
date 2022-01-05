@@ -19,3 +19,7 @@ img{
 img:hover{
 opacity: 80%;
 }
+
+div#row1 > img{
+    padding: 5px;
+}
